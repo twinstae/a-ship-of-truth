@@ -2,6 +2,11 @@
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
+<kbd>![image](https://github.com/user-attachments/assets/72a4456e-165d-45eb-9028-07c78e1d6bab)</kbd>
+
+<kbd>![image](https://github.com/user-attachments/assets/56f98fae-7162-4ca5-b041-883110ec7323)</kbd>
+
+
 ## 🚀 Project Structure
 
 Inside of your Astro + Starlight project, you'll see the following folders and files:
