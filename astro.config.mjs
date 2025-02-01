@@ -10,6 +10,8 @@ const [vault2_StarlightObsidian, vault2_ObsidianSidebarGroup] = createStarlightO
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://adityatelange.github.io/astro-obsidian-starlight-notes-template/',
+	base: '/astro-obsidian-starlight-notes-template',
 	integrations: [
 		starlight({
 			title: 'My Notes',
