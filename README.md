@@ -43,6 +43,12 @@ All commands are run from the root of the project, from a terminal:
 | `bun run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `bun run astro -- --help` | Get help using the Astro CLI                     |
 
+## Thanks to following projects
+
+- https://github.com/HiDeoo/starlight-blog 
+- https://github.com/HiDeoo/starlight-obsidian
+- https://github.com/Fevol/starlight-theme-obsidian
+
 ## 👀 Want to learn more?
 
 Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
