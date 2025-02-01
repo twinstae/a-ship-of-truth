@@ -5,5 +5,5 @@ node_modules/
 .astro/
 
 # custom
-src/content/docs/**
+src/content/docs/notes**
 !src/content/docs/index.mdx
