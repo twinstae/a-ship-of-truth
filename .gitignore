@@ -7,3 +7,5 @@ node_modules/
 # custom
 src/content/docs/notes**
 !src/content/docs/index.mdx
+src/content/docs/a-ship-of-truth
+dist

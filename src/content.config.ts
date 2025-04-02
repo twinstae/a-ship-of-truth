@@ -7,7 +7,8 @@ import { blogSchema } from 'starlight-blog/schema';
 
 export const collections = {
 	docs: defineCollection({
-		loader: docsLoader(), schema: docsSchema({
+		loader: docsLoader(),
+		schema: docsSchema({
 			extend: (context) => blogSchema(context)
 		})
 	}),
